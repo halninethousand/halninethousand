@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @halninethousand
-- 👀 I’m interested in Rust and Python
-- 🌱 I’m currently learning ... Rust
-- 💞️ Programming is difficult.
-- 📫 I'm an adult beginner programmer. Working with Python/Matlab/NodeJs/Mongodb. 
+- 👀 Programming is difficult.
 
 <!---
 halninethousand/halninethousand is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
